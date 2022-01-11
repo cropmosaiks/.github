@@ -4,4 +4,3 @@ Capstone Project for the Masters of Environmental Data Science program at the Br
 
 [Code of Conduct](https://github.com/cropmosaiks/.github/blob/main/CODE_OF_CONDUCT.md)
 
-![](https://github.com/cropmosaiks/NDVI_Images/blob/main/animations/ndvi.gif)
