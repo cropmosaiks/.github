@@ -6,5 +6,5 @@ Capstone Project for the Masters of Environmental Data Science program at the Br
 
 ## [Project Board](https://github.com/orgs/cropmosaiks/projects/1)
 
-## [Project Timeline](https://github.com/cropmosaiks/.github/issues/1)
+## [Weekly Timeline](https://github.com/cropmosaiks/.github/issues/1)
 
