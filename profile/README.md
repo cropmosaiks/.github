@@ -12,9 +12,9 @@ This organization hosts several repositories including the main two, [Featurizat
 
 This project was completed on June 9th, 2022, but suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on either of the repositories. To correspond with the data scientists who produced these materials, please see their personal GitHub accounts listed below and feel free to contact them via email:
 
-[Grace Lewin](https://github.com/gracelewin)
-[Cullen Molitor](https://github.com/cullen-molitor)
-[Steven Cognac](https://github.com/cognack)
+[Grace Lewin](https://github.com/gracelewin)\
+[Cullen Molitor](https://github.com/cullen-molitor)\
+[Steven Cognac](https://github.com/cognack)\
 [Juliet Cohen](https://github.com/julietcohen)
 
 For rules and regulations for this organization, please see the [Code of Conduct](https://github.com/cropmosaiks/.github/blob/main/CODE_OF_CONDUCT.md)
