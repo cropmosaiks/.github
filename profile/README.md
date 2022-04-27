@@ -1,4 +1,4 @@
-# CropMOSAIKS: [An Open Source Pipeline for Remote Sensing of Crop Yields Under Environmental Change in Sub-Saharan Africa](https://bren.ucsb.edu/projects/open-source-pipeline-remote-sensing-crop-yields-under-environmental-change-sub-saharan)
+# [CropMOSAIKS:](https://bren.ucsb.edu/projects/open-source-pipeline-remote-sensing-crop-yields-under-environmental-change-sub-saharan) An Open Source Pipeline for Remote Sensing of Crop Yields Under Environmental Change in Sub-Saharan Africa
 
 ## Purpose
 
