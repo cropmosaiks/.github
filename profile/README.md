@@ -8,7 +8,11 @@ In this application of the MOSAIKS approach, the features are joined to crop yie
 
 ## What is here?
 
-This organization hosts several repositories including the main two, [Featurization](https://github.com/cropmosaiks/Featurization) and [Modeling](https://github.com/cropmosaiks/Modeling). Both repositories have independent README's that provide detailed explanations of their notebooks, data sources, and file organization. 
+This organization hosts several repositories including the main two components of this project;
+ 1. [Featurization](https://github.com/cropmosaiks/Featurization), and
+ 2. [Modeling](https://github.com/cropmosaiks/Modeling)
+
+Both repositories have independent README's that provide detailed explanations of their notebooks, data sources, and file organization. 
 
 ## Contributing
 
