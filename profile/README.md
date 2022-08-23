@@ -11,7 +11,7 @@ In this application of the MOSAIKS approach, the features are joined to crop yie
 This organization hosts three repositories including:
  1. [Featurization](https://github.com/cropmosaiks/Featurization)
  2. [Modeling](https://github.com/cropmosaiks/Modeling)
- 3. [NDVI_Images](https://github.com/cropmosaiks/NDVI_Images)
+ 3. [images](https://github.com/cropmosaiks/images)
 
 The top two repositories have independent README's that provide detailed explanations of their notebooks, data sources, and file organization. The third repository includes graphics generated for presentations.
 
